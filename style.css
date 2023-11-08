@@ -17,3 +17,10 @@ header{
     padding-top: 5px;
     padding-bottom: 5px;
 }   
+.Ingredienser{
+text-align: center;
+background-color: lightgrey;
+border-radius: 16px;
+margin-right: 1200px;
+margin-left: 50px;
+}
