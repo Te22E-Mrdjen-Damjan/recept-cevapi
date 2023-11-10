@@ -39,7 +39,7 @@ article {
     border-radius: 16px;
     position: absolute;
     margin-left: 200px;
-    margin-top: -375px;
+    margin-top: -425px;
   
     text-align: center;
 font-size: xx-large;
@@ -48,5 +48,34 @@ font-size: xx-large;
 .cevapi img{
 
     background-color: red;
+    
+    margin-left: 50px;
+    border: 16px solid red;
+    border-radius: 16px;
+}
+.cevapi2 img{
+    background-color: red;
+    margin-top: -300px;
+    margin-left: 1000px;
+    border: 16px solid red;
+    border-radius: 16px;
+}
 
+.information{
+background-color: lightgrey;
+border-radius: 16px;
+margin-left: 340px;
+margin-right: 390px;
+margin-top: -270px;
+font-size: xx-large;
+padding-left: 35px;
+
+}
+.informationHöger{
+    background-color: lightgrey;
+    border-radius: 16px;
+    margin-right: 500px;
+    margin-left: 800px;
+    margin-top: -207px;
+    font-size: xx-large;
 }
